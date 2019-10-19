@@ -4,4 +4,6 @@
 
 	echo "Olá, manoulo";
 
+	echo "Olá, Github!";
+
 ?>
